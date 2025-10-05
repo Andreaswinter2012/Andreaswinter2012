@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreaswinter2012
-- 👀 I’m interested in Frontend development
+- 👀 I’m interested in bots and backend development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in gmail "andreaswinter1605@gmail.com"
